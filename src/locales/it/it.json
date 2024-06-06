@@ -1,0 +1,5 @@
+{
+  "count_zero": "Cliccato zero volte",
+  "count_one": "Cliccato una volta",
+  "count_other": "Cliccato {{count}} volte"
+}

@@ -1,0 +1,5 @@
+{
+  "count_zero": "Clicked zero times",
+  "count_one": "Clicked one time",
+  "count_other": "Clicked {{count}} times"
+}
