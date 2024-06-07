@@ -5,7 +5,7 @@ import { render } from "@testing-library/react";
 import CounterLabel from "@/components/dom/CounterLabel";
 import useStore from "@stores/useStore";
 
-test("Counter changes changes on click", async () => {
+test("Counter changes on click", async () => {
   render(<CounterLabel />);
 
   const threeRenderer = await ReactThreeTestRenderer.create(<ClickableCube />);
